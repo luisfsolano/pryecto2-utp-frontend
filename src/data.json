@@ -1,0 +1,29 @@
+{
+    "listTasks":[
+        {
+            "id":1,
+            "estado":true,
+            "descripcion":"Tarea 1"
+        },
+        {
+            "id":2,
+            "estado":true,
+            "descripcion":"Tarea 2"
+        },
+        {
+            "id":3,
+            "estado":true,
+            "descripcion":"Tarea 3"
+        },
+        {
+            "id":4,
+            "estado":true,
+            "descripcion":"Tarea 4"
+        },
+        {
+            "id":5,
+            "estado":true,
+            "descripcion":"Tarea 5"
+        }
+    ]
+}
